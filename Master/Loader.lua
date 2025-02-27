@@ -14,7 +14,7 @@ if _G.Thai or _G.Languages == "Thai" or getgenv().Languages == "Thai" then
     ["A_StoredSelect"] = Enum.KeyCode.Q,
     ["A_DropAll"] = Enum.KeyCode.B
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/G1GX/Fetching/main/Master/Dead_Rails"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/G1GX/Fetching/main/Master/Dead_Rails_TH"))()
 	end
 end
 if _G.English then
